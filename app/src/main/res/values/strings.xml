@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeSafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_caution">CautionActivity</string>
+    <string name="title_activity_safety_observation">SafetyObservationActivity</string>
+    <string name="title_activity_safety_observation_form">SafetyObservationFormActivity</string>
+
+
+    <string-array name="City">
+        <item>DHAKA METRO</item>
+        <item>DHAKA OUTER</item>
+        <item>CHITTAGONG</item>
+        <item>SYLHET</item>
+        <item>BOGRA</item>
+        <item>RAJSHAHI</item>
+        <item>KHULNA</item>
+        <item>WATER</item>
+
+    </string-array>
+
+    <string-array name="DHAKA_METRO">
+        <item>TEJGAON</item>
+        <item>MALIBAGH</item>
+        <item>JATRABARI</item>
+        <item>WARI</item>
+        <item>CHANKHERPOOL</item>
+        <item>DHANMONDI</item>
+        <item>SHYAMOLI</item>
+        <item>MIRPUR</item>
+        <item>UTTARA</item>
+        <item>TONGI</item>
+        <item>MODERN TRADE (D/M)</item>
+        <item>SHOPPING COMPLEX</item>
+    </string-array>
+
+    <string-array name="DHAKA_OUTER">
+        <item>SAVAR</item>
+        <item>DEPZ</item>
+        <item>KALIAKOIR</item>
+        <item>MANIKGANJ</item>
+        <item>NARAYANGANJ</item>
+        <item>ADAMJEE</item>
+        <item>SONARGAON</item>
+        <item>MUNSHIGANJ</item>
+        <item>SREENAGAR</item>
+        <item>KARANIGANJ</item>
+        <item>NOWABGANJ</item>
+        <item>MYMENSINGH</item>
+        <item>JAMALPUR</item>
+        <item>SHERPUR</item>
+        <item>TANGAIL</item>
+        <item>KALIHATI</item>
+        <item>JOYDEVPUR</item>
+        <item>BHALUKA</item>
+        <item>MODHUPUR</item>
+    </string-array>
+
+    <string-array name="CHITTAGONG">
+        <item>DEWANHAT</item>
+        <item>NASIRABAD</item>
+        <item>HALISHAHAR</item>
+        <item>HATHAZARI</item>
+        <item>RANGAMATI</item>
+        <item>KHAGRACHARI</item>
+        <item>COX\'S BAZAR</item>
+        <item>CHAKARIA</item>
+        <item>SITAKUND</item>
+        <item>KAPTAI</item>
+        <item>SANDWIP</item>
+        <item>PATIYA</item>
+        <item>ANWARA</item>
+        <item>BANDARBAN</item>
+        <item>FENI</item>
+        <item>BASURHAT</item>
+        <item>COMILLA</item>
+        <item>DAUDKANDI</item>
+        <item>CHANDPUR</item>
+        <item>LAXMIPUR</item>
+        <item>LAKSHAM</item>
+        <item>HAJIGANJ</item>
+        <item>NOAKHALI</item>
+    </string-array>
+
+
+    <string-array name="SYLHET">
+        <item>SYLHET</item>
+        <item>SUNAMGANJ</item>
+        <item>CHHATAK</item>
+        <item>BISHWANATH</item>
+        <item>M. BAZAR</item>
+        <item>KULAURA</item>
+        <item>HABIGANJ</item>
+        <item>NABIGANJ</item>
+        <item>NARSINGDHI</item>
+        <item>BHAIRAB</item>
+        <item>GHORASAL</item>
+        <item>KISHOREGANJ</item>
+        <item>NETRAKONA</item>
+        <item>B. BARIA</item>
+        <item>COMPANYGANJ</item>
+    </string-array>
+
+
+    <string-array name="BOGRA">
+        <item>BOGRA</item>
+        <item>GAIBANDHA</item>
+        <item>GOBINDAGANJ</item>
+        <item>NAOGAON</item>
+        <item>NAZIPUR</item>
+        <item>JOYPURHAT</item>
+        <item>BIRAMPUR</item>
+        <item>SERAJGANJ</item>
+        <item>ULLAPARA</item>
+        <item>RANGPUR</item>
+        <item>KURIGRAM</item>
+        <item>LALMONIRHAT</item>
+        <item>SAIDPUR</item>
+        <item>NILPHAMARI</item>
+        <item>DINAJPUR</item>
+        <item>PANCHAGARH</item>
+        <item>THAKURGAON</item>
+    </string-array>
+
+
+    <string-array name="RAJSHAHI">
+        <item>RAJSHAHI</item>
+        <item>C. N. GANJ</item>
+        <item>PABNA</item>
+        <item>BERA</item>
+        <item>NATORE</item>
+        <item>ISHURDI</item>
+        <item>KUSHTIA</item>
+        <item>BHERAMARA</item>
+        <item>MAGURA</item>
+        <item>BOALMARI</item>
+        <item>JHENAIDAH</item>
+        <item>KALIGANJ</item>
+        <item>CHUADANGA</item>
+        <item>MEHARPUR</item>
+        <item>FARIDPUR</item>
+        <item>RAJBARI</item>
+        <item>BHANGA</item>
+    </string-array>
+
+
+    <string-array name="KHULNA">
+        <item>KHULNA</item>
+        <item>NARAIL</item>
+        <item>NOAPARA</item>
+        <item>GOPALGANJ</item>
+        <item>TEKARHAT</item>
+        <item>BAGERHAT</item>
+        <item>MONGLA</item>
+        <item>PEROJPUR</item>
+        <item>SATHKIRA</item>
+        <item>JESSORE</item>
+        <item>JHIKARGACHA</item>
+        <item>BARISAL</item>
+        <item>BHOLA</item>
+        <item>LALMOHAN</item>
+        <item>MULADI</item>
+        <item>TORKI</item>
+        <item>PATUAKHALI</item>
+        <item>BARGUNA</item>
+        <item>JHALAKATI</item>
+        <item>BANARIPARA</item>
+        <item>MADARIPUR</item>
+        <item>SHARIATPUR</item>
+    </string-array>
+
+
+    <string-array name="Water">
+
+        <item>Water-Outer</item>
+        <item>Water-Dhaka</item>
+        <item>Water-Chittagong</item>
+    </string-array>
+
+
+</resources>
