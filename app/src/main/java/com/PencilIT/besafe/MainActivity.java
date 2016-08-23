@@ -30,6 +30,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         sharedpreferences = getSharedPreferences("BeSafe", Context.MODE_PRIVATE);
 
         userid = (EditText) findViewById(R.id.userId);
@@ -50,6 +51,7 @@ public class MainActivity extends Activity {
         }
 
         button = (Button) findViewById(R.id.buttonSubmit);
+
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
@@ -63,6 +65,7 @@ public class MainActivity extends Activity {
 
 
     }
+
 
     public boolean isNetworkAvailable() {
         final ConnectivityManager connectivityManager = ((ConnectivityManager) getApplicationContext().getSystemService(Context.CONNECTIVITY_SERVICE));

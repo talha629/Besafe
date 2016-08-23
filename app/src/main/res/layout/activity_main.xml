@@ -18,7 +18,6 @@
         android:ems="10"
         android:text="ENTER YOUR MOBILE NUMBER"
         android:textColor="#003B79"
-
         android:textStyle="bold" />
 
     <EditText
